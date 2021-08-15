@@ -1,5 +1,9 @@
-- 👋 Hola, Yo soy Yoselin 
+Hola yo soy Yoselin ✨
+
+Acerca de mi: 
+
 -Soy Egresada de la carrera de Ingenieria Economica 
+
 -Me interesan la economía del desarrollo, la microeconometría aplicada, la macroeconometría aplicada, las politicas públicas y las desigualdades sociales
 
 
